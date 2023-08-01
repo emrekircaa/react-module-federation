@@ -8,6 +8,6 @@
 
 > npm start
 
-### 3.Finnaly
+### 3.Finally
 
 > look at localhost:3000 :)
